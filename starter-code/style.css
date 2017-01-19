@@ -57,3 +57,8 @@ span {
 	float: left;
 	margin: 8%;
 }
+
+img {
+	height: 200px;
+	width: 150px;
+}
